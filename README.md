@@ -1,17 +1,26 @@
-# TechSkill-Academy
-
-TechSkill Academy is a modern, responsive web page designed to provide an online platform for promoting technical skills programs. It allows users to explore various courses, meet instructors, and easily register for programs to enhance their tech skills.
+# Tech Skill Academy
+Online IT courses available for all fields. Explore the Journey with us.
 
 ## Project Description
-This project serves as a landing page for TechSkill Academy, designed to attract and engage visitors looking to upgrade their technical knowledge. The website showcases courses, introduces instructors, and provides easy navigation with a clean, professional design. It is fully responsive, ensuring compatibility across various screen sizes from desktop to mobile.
+This website is a platform showcasing skills in online IT courses, featuring an introduction to background, an overview of key projects, and a contact form for inquiries. The Home page provides a brief introduction from where you explore about us and contact us. The About Me section offers details on education and technical expertise, and the Contact page includes a form for direct communication. The site is fully responsive, ensuring it looks great on any device, from desktop to mobile.
 
-## Project Features
-1. Hero Section: A prominent banner with a call-to-action button to engage users.
+## Features
+* **User Authentication**: Users can sign up, log in, and log out securely.
+* **Responsive Design**: The website is fully responsive, adapting to various screen sizes, including desktops, tablets, and mobile devices.
+* **Dynamic Content**: The web app features dynamic content updates using _JavaScript_.
+* **Contact Form**: Users can submit inquiries via a functional contact form that sends emails.
+* **API Integration**: Data from a third-party _API_ is displayed in real-time.
 
-2. Responsive Design: The layout adapts to different screen sizes for a seamless experience on desktop, tablet, and mobile devices.
+## Technologies Used
+* HTML5
+* CSS3
+* JavaScript (ES6)
+* Bootstrap
+* Node.js
 
-3. Instructor Profiles: A section to display instructor profiles with roles and social media links.
+## Images
+![courses](https://github.com/user-attachments/assets/9c7d27c1-394a-42fe-93ea-1d3cdead79ea)
 
-4. Join Academy Section: A call-to-action area encouraging users to join courses.
+![teachers](https://github.com/user-attachments/assets/b447e1db-e2ae-4e89-88e9-cba50d823b20)
 
-5. Footer Section: Contact information and additional links.
+![contact](https://github.com/user-attachments/assets/63e270cc-140a-452a-bacf-12fd4de3f482) 
